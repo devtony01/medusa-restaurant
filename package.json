@@ -2,7 +2,6 @@
   "name": "medusa-starter-default",
   "version": "0.0.1",
   "description": "A starter for Medusa projects.",
-  "homepage": "https://medusa-restaurant.vercel.app/",
   "author": "Medusa (https://medusajs.com)",
   "license": "MIT",
   "keywords": [
